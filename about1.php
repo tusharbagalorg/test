@@ -6,5 +6,6 @@
  * and open the template in the editor.
  */
 
+echo "Home Page - edit";
 
-echo "New Tush Branch";
+echo "Home Page - here";
