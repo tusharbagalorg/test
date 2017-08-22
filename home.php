@@ -6,4 +6,6 @@
  * and open the template in the editor.
  */
 
-echo "Home Page";
+echo "Home Page - edit";
+
+
